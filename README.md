@@ -1,10 +1,7 @@
-# This is an exampleof a README.md file
-	We're going to add this file to our repository.
+# This is an example of a README.md file.
 
-## My name is Jesús Fragoso# This is an exampleof a README.md file
-	We're going to add this file to our repository.
+My name is Jesús Fragoso, and I have 23 years old.
 
-## My name is Jesús Fragoso# This is an exampleof a README.md file
-	We're going to add this file to our repository.
+## This is a subtitle.
+	print("Hello, I'm a Python programmer.")
 
-## My name is Jesús Fragoso
