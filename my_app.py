@@ -7,3 +7,4 @@ with connection.cursor() as cursor:
 try:
 	dfnvndfnvndf
 	dfmvjndfnvdj
+print("Hi")
