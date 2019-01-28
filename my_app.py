@@ -9,3 +9,4 @@ try:
 	dfmvjndfnvdj
 print("Hi")
 print("OK")
+	print("Not")
